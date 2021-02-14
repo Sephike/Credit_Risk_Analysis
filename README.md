@@ -4,6 +4,7 @@ In this challenge we were tasked to assess the inherent credit risk. We achieved
 
 ## Results
 - Random Over Sampler
+
 !["Random Over Sampler Accuracy Score"](Resources/ros_acc_score.png)
 
 The accuracy of the ROS is a decent %65.
@@ -13,6 +14,7 @@ The accuracy of the ROS is a decent %65.
 The classification report shows us that the recall is around %60 with a precision of %99.
 
 - SMOTE
+
 !["SMOTE Accuracy Score"](Resources/smote_acc_score.png)
 
 The accuracy of the SMOTE is a decent %66.
@@ -22,6 +24,7 @@ The accuracy of the SMOTE is a decent %66.
 The classification report shows us that the recall is around %69 with a precision of %99.
 
 - Cluster Centroids
+
 !["Cluster Centroids Accuracy Score"](Resources/cc_acc_score.png)
 
 The accuracy of the CC is a decent %58.
@@ -31,6 +34,7 @@ The accuracy of the CC is a decent %58.
 The classification report shows us that the recall is around %49 with a precision of %99.
 
 - SMOTEENN
+
 !["SMOTEENN Accuracy Score"](Resources/smoteenn_acc_score.png)
 
 The accuracy of the SMOTEENN is a decent %65.
@@ -40,6 +44,7 @@ The accuracy of the SMOTEENN is a decent %65.
 The classification report shows us that the recall is around %58 with a precision of %99.
 
 - Balanced Random Forest Classifier
+
 !["Balanced Random Forest Classifier Accuracy Score"](Resources/brfc_acc_score.png)
 
 The accuracy of the BRFC is a decent %99.
@@ -49,6 +54,7 @@ The accuracy of the BRFC is a decent %99.
 The classification report shows us that the recall is around %100 with a precision of %100.
 
 - Easy Ensemble Classifier
+
 !["Easy Ensemble Classifier Accuracy Score"](Resources/ee_acc_score.png)
 
 The accuracy of the EEC is a decent %99.
