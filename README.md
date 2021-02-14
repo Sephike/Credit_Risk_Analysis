@@ -64,3 +64,4 @@ The accuracy of the EEC is a decent %99.
 The classification report shows us that the recall is around %100 with a precision of %100.
 
 ## Summary
+Now that the analysis is complete, we now can look at all the information available to make a clear and justified decision on which agorithm to use for future credit risk analysis. I personally would prefer using the Balanced Random Forest Classifier, it allows us to not only improve our accuracy score by adding more estimators but will also increase our recall and precision. I therefore think the Balanced Random Forest Classifier is best as we can also check feature importance and find ways to improve our analysis even further.
